@@ -1,0 +1,10 @@
+[ VMware ESXi / vSphere ]
+            |
+            v
+     [ Zabbix Server ]
+            |
+            v
+     [ Zabbix Frontend ]
+            |
+            v
+     [ Monitoring Dashboard ]
