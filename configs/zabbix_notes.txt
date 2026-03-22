@@ -1,0 +1,9 @@
+Zabbix Configuration Notes:
+
+- Zabbix server collects metrics from VMware hosts
+- VMware integration uses API credentials
+- Templates are used for auto-discovery
+- Triggers can be configured for:
+  - High CPU usage
+  - Low memory
+  - Disk saturation
