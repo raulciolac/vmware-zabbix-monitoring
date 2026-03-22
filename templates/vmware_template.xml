@@ -1,0 +1,10 @@
+<zabbix_export>
+  <version>6.0</version>
+  <templates>
+    <template>
+      <template>VMware Monitoring Template</template>
+      <name>VMware Monitoring Template</name>
+      <description>Template for VMware monitoring</description>
+    </template>
+  </templates>
+</zabbix_export>
